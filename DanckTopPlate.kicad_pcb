@@ -1,9 +1,9 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.7)
+(kicad_pcb (version 4) (host pcbnew 4.0.6)
 
   (general
     (links 1)
     (no_connects 1)
-    (area 31.75 63.5 269.875001 150.812501)
+    (area 31.75 62.3748 279.5792 150.812501)
     (thickness 1.6)
     (drawings 5)
     (tracks 0)
@@ -854,13 +854,13 @@
     (arrow2a (pts (xy 35.8902 65.0748) (xy 37.016704 65.661221)))
     (arrow2b (pts (xy 35.8902 65.0748) (xy 37.016704 64.488379)))
   )
-  (gr_text "Revision 1.0\n" (at 236.347 124.333) (layer B.Mask)
+  (gr_text "Plate Revision 1.1\n" (at 232.791 124.46) (layer B.Mask)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text "Designed by Cartel and ai03" (at 227.076 105.41) (layer B.Mask)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
-  (gr_text "Danck Ortho Keyboard Kit\n" (at 228.6 86.36) (layer B.Mask)
+  (gr_text "Contra Ortho Keyboard Kit\n" (at 228.6 86.36) (layer B.Mask)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
 
