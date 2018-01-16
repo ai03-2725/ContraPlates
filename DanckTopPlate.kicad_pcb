@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.6)
+(kicad_pcb (version 4) (host pcbnew 4.0.7)
 
   (general
     (links 1)
@@ -854,7 +854,7 @@
     (arrow2a (pts (xy 35.8902 65.0748) (xy 37.016704 65.661221)))
     (arrow2b (pts (xy 35.8902 65.0748) (xy 37.016704 64.488379)))
   )
-  (gr_text "Plate Revision 1.1\n" (at 232.791 124.46) (layer B.Mask)
+  (gr_text "Plate Revision 1.5" (at 232.791 124.46) (layer B.Mask)
     (effects (font (size 1.5 1.5) (thickness 0.3)) (justify mirror))
   )
   (gr_text "Designed by Cartel and ai03" (at 227.076 105.41) (layer B.Mask)
