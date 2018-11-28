@@ -1,17 +1,21 @@
-%TF.GenerationSoftware,KiCad,Pcbnew,4.0.7*%
-%TF.CreationDate,2018-01-16T00:50:28-08:00*%
-%TF.ProjectId,DanckTopPlate,44616E636B546F70506C6174652E6B69,rev?*%
-%TF.FileFunction,Profile,NP*%
+G04 #@! TF.GenerationSoftware,KiCad,Pcbnew,(5.0.0)*
+G04 #@! TF.CreationDate,2018-11-27T16:47:10-08:00*
+G04 #@! TF.ProjectId,ContraTopPlate,436F6E747261546F70506C6174652E6B,rev?*
+G04 #@! TF.SameCoordinates,Original*
+G04 #@! TF.FileFunction,Profile,NP*
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 4.0.7) date 01/16/18 00:50:28*
+G04 Created by KiCad (PCBNEW (5.0.0)) date 11/27/18 16:47:10*
 %MOMM*%
 %LPD*%
 G01*
 G04 APERTURE LIST*
+G04 #@! TA.AperFunction,NonConductor*
 %ADD10C,0.100000*%
+G04 #@! TD*
 G04 APERTURE END LIST*
 D10*
+G04 #@! TO.C,p1*
 X171958000Y-70358000D02*
 X171958000Y-83158600D01*
 X153708000Y-83757900D02*
@@ -1324,4 +1328,5 @@ X115609200Y-107858600D02*
 X115609200Y-108458000D01*
 X186758000Y-121258600D02*
 X187559000Y-121258600D01*
+G04 #@! TD*
 M02*
